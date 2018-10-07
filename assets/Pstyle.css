@@ -37,20 +37,13 @@ header {
 
 #aboutme {
     width: 960px;
-    height: 500px;
+    height: 651px;
     background: #ffffff;
     position: relative;
     left: 19%;
     top: 120px;
 }
-img {
-    width: 200px;
-    height: 200px;
-    float: left;
-    margin-right: 45px;
-    position: relative;
-    left: 2%;
-}
+
 
 h2 {
     color: #4aaaa5;
@@ -98,4 +91,24 @@ footer {
 p {
     line-height: 32px;
     margin-left: 2%;
+}
+
+button {
+    background-color: #4aaaa5;
+    width: 150px;
+    height: 37px;
+    font-size: 16px;
+    color: white;
+    position: relative;
+    left: -152px;
+    top: -31px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#hrtwo {
+    margin-left: 10px;
 }
